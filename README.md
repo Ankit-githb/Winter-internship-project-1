@@ -1,6 +1,6 @@
 # Winter-internship-project-1
 Winter internship project - Sales Data Analysis
- 
+Link: https://1drv.ms/x/s!Aut1M-q-w2t8hVHF7YFcvuM5W3g-?e=ekpjOd
 Bike Buyers Analytics Dashboard
 1.	Bar Chart (Marital Status):
 Question: How does the count of bike purchases vary among different marital statuses? Are married individuals more likely to purchase bikes?
